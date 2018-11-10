@@ -6,6 +6,13 @@ public class Runner {
 		// TODO Auto-generated method stub
 		Species human = new Species ("homo", "sapiens");
 		System.out.println(human);
+		
+		//Create a LinkedList
+		
+	}
+	
+	public static LinkList<E> makeSpeciesList(LinkedList<Species> animals) {
+		
 	}
 
 }
